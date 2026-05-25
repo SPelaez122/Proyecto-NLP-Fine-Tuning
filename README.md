@@ -20,3 +20,5 @@ Este repositorio alberga un proyecto integral centrado en el fine-tuning de vari
 - **Modelo Base:** T5-small
 - **Dataset:** `arxiv-summarization`
 - **Descripción:** Generación de resúmenes concisos (tipo abstract) para artículos científicos extraídos del dataset de ArXiv.
+
+Google Colab link: https://colab.research.google.com/drive/1yMd6TFLTj62QL6XH98NTxO9gJLZunYs4?usp=sharing
